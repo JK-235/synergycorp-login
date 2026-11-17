@@ -1,0 +1,6 @@
+:root { color-scheme: light dark; }
+body { font: 17px/1.6 system-ui, sans-serif; max-width: 680px; margin: 40px auto; padding: 0 16px; }
+textarea { width: 100%; box-sizing: border-box; font: 14px ui-monospace, monospace; }
+button { font: inherit; padding: 6px 16px; cursor: pointer; }
+.kecil { font-size: 14px; opacity: .8; }
+h1 { font-size: 26px; } h2 { font-size: 20px; margin-top: 28px; }
